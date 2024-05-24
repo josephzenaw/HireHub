@@ -1,8 +1,13 @@
 body {
     background: url(job.jpg)
 }
+h1{
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
 p {
     color: #fff;
     text-align: center;
     font-family: "Poppins", sans-serif;
+    
 }
