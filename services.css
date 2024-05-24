@@ -1,3 +1,7 @@
 body {
     background: url(job.jpg)
 }
+p {
+    color: #fff;
+    text-align: center;
+}
